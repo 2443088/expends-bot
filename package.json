@@ -1,0 +1,9 @@
+{
+  "name": "expends-bot",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Bot Telegram pencatat keuangan pribadi/keluarga (Vercel + Google Sheets + Gemini)",
+  "engines": { "node": "22.x" },
+  "scripts": { "test": "node --test" }
+}
